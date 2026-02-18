@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+   <center><h1>
+	<a href="home.html">home</a>&nbsp;&nbsp;
+	<a href="desination">about us</a>&nbsp;&nbsp;
+	<a href="blog">blog</a>&nbsp;&nbsp;
+	<a href="tips">tips</a>&nbsp;&nbsp;
+	<a href="contact">contact</a>&nbsp;&nbsp;
+	<a href="registration">registraion</a>&nbsp;&nbsp;
+  </h1></center>
+  <hr>
+  <center><h2>LIST OF TRAVEL TIPS</h2></center>
+  <center><ul>
+	<li>PACK LIGHT</li>
+	<li>STAY HYDRATED</li>
+	<li>KEEP YOUR DOCUMENTS SAFE</li>
+  </ul></center>
+  <center><h2>SIMPLE CONTACT FORM FOR TRAVELERS</h2></center>
+  <center><table>
+  <tr>
+	<td>NAME</td>
+	<td><input type="text" name=""></td>
+  </tr>
+  <tr>
+	<td>EMAIL</td>
+	<td><input type="email" name=""></td>
+  </tr>
+  <tr>
+	<td>MESSAGE</td>
+	<td><textarea name="" rows="" cols=""></textarea></td>
+  </tr>
+  <tr>
+	<td><input type="submit"></td>
+	<td><input type="reset"></td>
+  </tr>
+  </table></center>
+  
+  
+  <hr>
+  <center>
+	<strong>&copy;all rights reserved by agency</strong>
+  </center>
+ </body>
+</html>
